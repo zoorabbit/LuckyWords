@@ -1,2 +1,2 @@
 # LuckyWords
-LuckyWords
+LuckyWords  fist commit
